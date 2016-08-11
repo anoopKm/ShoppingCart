@@ -1,0 +1,17 @@
+.SearchBox{
+	input{
+		background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAMFBMVEX///+ysrK3t7f6+vrAwMDs7Ozi4uL19fXd3d28vLzU1NTx8fHPz8/Y2Njn5+fFxcXA73yRAAAAb0lEQVQYlZXPRxKAIAwFUH4ooXv/24plJCIs/BuYx6Sg1M9Y73igSmjJWpoDRes2GKFMlI4zI3b0cNclUMeCuyyCBfIXp+X6GVReKyFWbxCCXKqGc/kMmCS/aS0r015I6tl8rV6Nydg+1prrCa6zA/p/Aks62soMAAAAAElFTkSuQmCC');
+	    background-repeat: no-repeat;
+	    background-position: 10px 6px;
+	    background-repeat: no-repeat;
+	    padding: 5px 5px 5px 40px;
+	    -webkit-transition: width 0.4s ease-in-out;
+	    transition: width 0.4s ease-in-out;
+	    box-sizing: border-box;
+	    border: 2px solid #ccc;
+	    border-radius: 4px;
+	    font-size: 16px;
+	    background-color: white;
+	    outline: none;
+	}
+}
